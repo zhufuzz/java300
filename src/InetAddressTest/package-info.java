@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author b
- *
- */
-package InetAddressTest;
