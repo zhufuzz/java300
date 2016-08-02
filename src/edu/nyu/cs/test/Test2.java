@@ -1,6 +1,6 @@
 package edu.nyu.cs.test;
 
-public class Test {
+public class Test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
